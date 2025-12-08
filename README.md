@@ -5,6 +5,8 @@
     MIT license.
 </p>
 
+<hr>
+
 <p>
     anyways uhhh this uses:
     <ul>
@@ -13,6 +15,8 @@
         <li>Vite</li>
     </ul>
 </p>
+
+<hr>
 
 <p>
     to run it: <code>npm run run</code> <br>
