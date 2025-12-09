@@ -26,7 +26,7 @@ const OthersWindow: React.FC<OthersWindowProps> = ({ onClose }) => {
       {otherStuff.map((other) => (
         <a href={other.Links}>
           <div key={other.Name} className='flex otherStuffClass'>
-            <img src={other.Icons} width={80} draggable="false" />
+            <img src={other.Icons} width={80} height={80} draggable="false" />
             <div>
               <span className='header'><b>{other.Name}</b></span> <br/>
               <span>{other.Desc}</span>

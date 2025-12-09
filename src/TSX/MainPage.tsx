@@ -34,6 +34,11 @@ function MainPage() {
       "Name": "Github",
       "Links": "https://github.com/daveberrys",
       "Icons": "/social/github.svg"
+    },
+    {
+      "Name": "Discord",
+      "Links": "https://discord.gg/S5jTpsq8Js",
+      "Icons": "/social/discord.svg"
     }
   ];
 

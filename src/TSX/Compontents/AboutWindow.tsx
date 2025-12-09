@@ -21,6 +21,7 @@ const AboutWindow: React.FC<AboutWindowProps> = ({ onClose }) => {
         <li> Software and hardware developer for random hobby projects. </li>
         <li> I want to make a team that's dedicated to make great and open source software. </li>
         <li> I <i>do</i> use AI, but I check code before full sending it. </li>
+        <li> I use <a href="https://zed.dev">Zed</a> instead of <a href="https://vscode.dev">Visual Studio Code</a>. </li>
       </ul>
     </Window>
   );
