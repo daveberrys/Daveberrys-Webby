@@ -1,6 +1,6 @@
 import React, { useState, useRef, useEffect } from 'react';
 import '../../CSS/style.css';
-import useIsMobile from '../hooks/useIsMobile';
+import useIsMobile from '../Hooks/useIsMobile';
 
 interface WindowProps {
   title: string;
